@@ -30,13 +30,17 @@ Below is the only known screenshot to exist of this round.
 <img width="320" height="224" alt="image" src="https://github.com/user-attachments/assets/5eb72244-48f3-425a-bb7b-a422566a5f5a" />
 
 
-- Sonic's prerendered sprites appear to have environmental lighting, implemented after the "718" build was created. However, to the best of my knowledge, this has never been officially unconfirmed.
+- Sonic's prerendered sprites appear to have environmental lighting, implemented after the "718" build was created. However, to the best of my knowledge, this has never been officially confirmed.
 Below is one of the more more visible examples.
 
 <img width="304" height="214" alt="image" src="https://github.com/user-attachments/assets/b0b5e918-ad83-4cda-abf7-380c1c1f2413" />
 
 
 - Some later builds of the Boss Engine appear to have swapped Sonic's iconic pre-rendered 2D sprites for a 3D model. This model (as well as the level terrain) appears to be the same as the model found in the Sega Saturn SDK, although maybe polished up a bit.
-- 
+
 <img width="352" height="224" alt="image" src="https://github.com/user-attachments/assets/ff1f0a06-d175-4bf7-ae9d-286aa225c099" />
+
 <img width="352" height="224" alt="image" src="https://github.com/user-attachments/assets/ac5a775a-3f1a-4fb2-9c41-d7659786ebcf" />
+
+
+:)
