@@ -1,10 +1,13 @@
 # X-Treme-Boss-Engine-Restoration
-A very amateur attempt at decompiling/restoring Christina Coffin's "Boss Engine", the final engine chosen for the infamously ill-fated mainline Sonic the Hedgehog game "Sonic X-Treme".
+
 <img width="352" height="224" alt="image" src="https://github.com/user-attachments/assets/b4062459-55de-4e91-8dcd-57e232b87c80" />
 
 
-  This is likely a far more stripped down version of the engine than was available to the team before Sonic X-Treme's cancellation, as the only leaked build using this engine is the "718" build, also known as the "Jade Gully Demo" build. 
-Do not expect much from this. This is a passion project done by a broke 20 year old college student. I barely know C and don't use AI to help/write any of my code, so progress will be slow.
+A very amateur attempt at decompiling/restoring Christina Coffin's "Boss Engine", the final engine chosen for the infamously ill-fated mainline Sonic the Hedgehog game "Sonic X-Treme"
+
+
+(This is likely a far more stripped down version of the engine than was available to the team before Sonic X-Treme's cancellation, as the only leaked build using this engine is the "718" build, also known as the "Jade Gully Demo" build. 
+Do not expect much from this. This is a passion project done by a broke 20 year old college student. I barely know C and don't use AI to help/write any of my code, so progress will be slow!)
 -------------------------------------------------------------------------------------------------------------------------------------
 <img width="704" height="448" alt="image" src="https://github.com/user-attachments/assets/54fadd5a-5116-45d6-80e1-25bbe28b8a27" />
 
